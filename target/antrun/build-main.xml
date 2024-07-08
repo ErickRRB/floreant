@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<project name="maven-antrun-" default="main"  >
+<target name="main">
+  <zip basedir="/Users/erick/Downloads/floreantpos-code-r1960-trunk/target/floreantpos-bin/floreantpos" destfile="/Users/erick/Downloads/floreantpos-code-r1960-trunk/target/floreantpos-1.5.0-build${buildNumber}.zip"></zip>
+</target>
+</project>
